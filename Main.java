@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ * name: Stephen Bail
+ * wisc email: bail2@wisc.edu
+ * CS account name: bail
  */
 import java.util.*;
 
